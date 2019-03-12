@@ -1,0 +1,37 @@
+{
+  "records": [
+    {
+      "id": "1",
+      "date": "2018-01-02",
+      "title": "title 1",
+      "amount": 80
+    },
+    {
+      "id": "2",
+      "date": "2018-01-02",
+      "title": "title 2",
+      "amount": 29
+    },
+    {
+      "id": "3",
+      "date": "2018-01-02",
+      "title": "title 3",
+      "amount": 80
+    },
+    {
+      "id": "7Fn9xXA"
+    },
+    {
+      "id": "4",
+      "date": "2019-01-23",
+      "title": "吃饭",
+      "amount": "50"
+    },
+    {
+      "id": "5",
+      "date": "2019-01-23",
+      "title": "da吃",
+      "amount": "50"
+    }
+  ]
+}
